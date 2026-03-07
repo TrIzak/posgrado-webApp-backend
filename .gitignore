@@ -1,0 +1,8 @@
+# Dependencias de Node
+node_modules/
+
+# Archivos de entorno (¡NUNCA SUBIR A GITHUB!)
+.env
+
+# Directorio de compilación de TypeScript
+dist/
